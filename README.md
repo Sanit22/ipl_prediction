@@ -1,4 +1,6 @@
 # ipl_prediction
+The model can be found in the file "Cricket_code.ipynb".
+
 # Problem statement
 For IPL 2023, predict the runs scored by a team in the first 6 overs in each of the innings. The model will be evaluated on the metric 'mean_absolute_error'. 
 
