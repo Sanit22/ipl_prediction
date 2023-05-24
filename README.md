@@ -11,7 +11,7 @@ IPL_Matches_Result_2008_2022.csv: This file contains results of each IPL match s
 
 ## Problem solving approach
 
-From the training data, we calculate certain metrics to evaluate the performance of a batsmen, bowler and team.
+From the training data, we calculate several metrics to evaluate the performance of a batsmen, bowler and team.
 
 ### Batsmen metrics
 * Batsmen strike rate: (runs scored / balls faced) * 100
