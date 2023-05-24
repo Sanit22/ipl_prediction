@@ -1,4 +1,5 @@
-# ipl_prediction
+# IPL Score Prediction
+
 The model can be found in the file "Cricket_code.ipynb".
 
 # Problem statement
