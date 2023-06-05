@@ -45,4 +45,12 @@ From the training data, we calculate several metrics to evaluate the performance
 ## Model
 Since our target variable is continuous, we apply regression algorithms to predict the score. We try out different models such as linear regression, polynomial regression, DecisionTreeRegressor, RandomForestRegressor, GradientBoostRegressor. The model is evaluated on the metric 'mean_absolute_error'. After evaluating all the models, we find out that RandomForestRegressor gave us the minimum 'mean_absolute_error', hence we use that for our predictions. 
 
+## Results
+Here is a snapshot of errors for the predicted matches: 
+
+![Screenshot 2023-06-05 at 10 56 30 PM](https://github.com/Sanit22/ipl_prediction/assets/68417207/c02908b2-fab7-4a3c-bfff-26d4361ec02c)
+![Screenshot 2023-06-05 at 10 56 47 PM](https://github.com/Sanit22/ipl_prediction/assets/68417207/df3b4a63-ab9b-4b7b-ba14-9885586add9a)
+
+
+
 
